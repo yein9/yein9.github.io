@@ -19,7 +19,7 @@ print("\\\\\\\\")\\의 경우 \로 출력한다.
 print("-"*8)
 ```
 
-![python_w1_1](C:\blog\minimal-mistakes\_posts\photo\python_w1_1.PNG)
+![python_w1_1](\assets\images\python_w1_1.PNG)
 
 
 
@@ -46,7 +46,7 @@ print("안녕하세요"[1:])	#녕하세요
 print("안녕하세요"[:3])	#녕하
 ```
 
-![python_w1_2](C:\blog\minimal-mistakes\_posts\photo\python_w1_2.PNG)
+![python_w1_2](\assets\images\python_w1_2.PNG)
 
 
 
