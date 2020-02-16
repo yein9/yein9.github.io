@@ -14,7 +14,7 @@ tags:
 
 #### 3. 사용자에게 태어난 연도를 입력받아 띠를 출력하는 프로그램을 작성해주세요. 
 
-![pythonw2_1](\assets\images\python_w2_2.JPEG)
+![pythonw2_1](\assets\images\python_w2_2.JPG)
 
 ![pythonw2_2](\assets\images\python_w2_1.PNG)
 
