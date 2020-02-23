@@ -1,5 +1,5 @@
 ---
-title:  "혼공파 Week1"
+title:  "[도서]혼자공부하는 파이썬 Week1"
 excerpt: "."
 
 categories:
