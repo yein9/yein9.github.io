@@ -1,4 +1,5 @@
 ---
+
 title:  "[서평]고객이 보이는 구글 애널리틱스"
 excerpt: "."
 
@@ -6,9 +7,7 @@ categories:
   - ETC
 tags:
   - GA
-  -GrowthHacking
   
-
 ---
 
 ![고객이 보이는 구글 애널리틱스](http://www.hanbit.co.kr/data/books/B6309525432_l.jpg)
